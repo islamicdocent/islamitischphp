@@ -5,62 +5,27 @@ echo '<!DOCTYPE html>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Islam en het Belang van Gebed</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            line-height: 1.6;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-
-        main {
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 20px;
-            background: #fff;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-
-        h1 {
-            font-size: 2em;
-            margin-bottom: 20px;
-            color: #2c3e50;
-            text-align: center;
-        }
-
-        h2 {
-            font-size: 1.5em;
-            color: #16a085;
-        }
-
-        p {
-            margin-bottom: 20px;
-            text-align: justify;
-        }
-
-        ul {
-            list-style-type: disc;
-            padding-left: 20px;
-        }
-
-        li {
-            margin-bottom: 20px;
-        }
-    </style>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <main>
         <section class="content">
             <h1>Islam, Zuilen en het belang van gebed</h1>
-            <ul>
+            <ul>';
+
+// Introductory paragraph
+echo '
+          
+
+
                 <h2>Inleiding tot Islam</h2>
                 <p>
                     De islam, een belangrijke wereldreligie, benadrukt het geloof in één God (Allah) en volgt de leer van de profeet Mohammed zoals overgebracht in de Koran. Centraal in de islam staan de vijf zuilen, die de basis vormen van het geloof en de praktijk van een moslim. Deze zuilen zijn Shahada (geloofsbelijdenis), Salah (gebed), Zakat (aalmoes), Sawm (vasten) en Hajj (bedevaart naar Mekka).
                 </p>
-                <li>
+                
+
+echo '
+<li>
                     <h2>Shahada (Geloofsbelijdenis)</h2>
                     <p>
                         De eerste zuil, Shahada, is de geloofsbelijdenis, waarmee de eenheid van Allah en het profeetschap van Mohammed wordt bevestigd. Deze eenvoudige maar diepgaande uitspraak is het toegangspunt tot het islamitische geloof en moet met overtuiging worden uitgesproken.
